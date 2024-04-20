@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="150" src="[https://www.vecteezy.com/vector-art/1418597-girl-working-on-laptop-emblem](https://drive.google.com/file/d/1XYefQdLSMxy3yGa84LYpJjptsUKH-R5Z/view?usp=sharing)"  />
+  <img height="150" src="https://gravatar.com/itssamskv" />
 </div>
 
 ###
@@ -13,7 +13,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=wittysam8382.wittysam8382&"  />
+  <img src="https://avatars.githubusercontent.com/u/101207674?v=4"  />
 </div>
 
 ###
