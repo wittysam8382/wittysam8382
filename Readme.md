@@ -1,13 +1,13 @@
 <br clear="both">
 
 <div align="center">
-  <img height="150" src="https://www.vecteezy.com/vector-art/1418597-girl-working-on-laptop-emblem"  />
+  <img height="150" src="[https://www.vecteezy.com/vector-art/1418597-girl-working-on-laptop-emblem](https://drive.google.com/file/d/1XYefQdLSMxy3yGa84LYpJjptsUKH-R5Z/view?usp=sharing)"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" href="https://linkedin.com/in/samriddhi-kumari-5b6440247/" />
 </div>
 
 ###
@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">I'm Samriddhi<br><br>- 🔭 I’m an aspiring developer<br>- 📚 I'm currently learning development<br>- ⚡ In my free time I love to read books and watching movies and drama</p>
+<p align="left">I'm Samriddhi<br><br>- 🔭 Current Mission: Aspiring Developer <br>- 📚Powering Up:  Sharpening my problem-solving skills like a coding samurai! ⚔️<br>- ⚡ After Dark: You'll find me fueling my creativity with books and epic movie/drama marathons! </p>
 
 ###
 
