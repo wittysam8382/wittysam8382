@@ -1,9 +1,5 @@
 <br clear="both">
 
-<div align="center">
-  <img height="150" src="[![background-github.jpg](https://i.postimg.cc/5yFFyM9F/background-github.jpg)](https://postimg.cc/5QbtKTCx)" />
-</div>
-
 ###
 
 <div align="center">
